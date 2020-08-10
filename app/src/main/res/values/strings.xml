@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoCamerWithFilter</string>
+    <string name="app_record">Record Video</string>
+
+</resources>
